@@ -1,5 +1,5 @@
 #In this final SQL project, I'm querying a database with multiple tables in it to quantify statistics about the data as well as practicing using 
-    ChatGPT to assist in writing queries and solving bugs in my SQL queries to strengthen my skills in prompt engineering.
+    ChatGPT to assist in writing queries and solving bugs in my SQL queries to strengthen my skills in prompt engineering. 
 
 #1. Show Customers (their full names, customer ID, and country) who are not in the US.
 SELECT FirstName, LastName, CustomerId, Country 
