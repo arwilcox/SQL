@@ -88,6 +88,6 @@ Select company_name, min(avg_employee_tenure), healthcare_benefits, paid_time_of
 from fortune_companies;
 
 
-# Which company has the highest average employee tenure, how many employees do they have, do they offer healthcare benefits, and how many paid time off days do they offer?
+# Which company has the highest average employee tenure, how many employees do they have, do they offer healthcare benefits, and how many paid time off days do they offer? 
 Select company_name, max(avg_employee_tenure), healthcare_benefits, paid_time_off_days
 from fortune_companies;
